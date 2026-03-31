@@ -130,7 +130,7 @@ export default function Customer({ customers }: any) {
 
         {/* HEADER */}
         <div className="flex justify-between items-center">
-          <h1 className="text-lg font-semibold text-gray-800">Master Customer news</h1>
+          <h1 className="text-lg font-semibold text-gray-800">Master Customer news1</h1>
           <div className="flex gap-2">
             <input
               value={globalFilter ?? ''}
